@@ -1,4 +1,4 @@
-# 🌟 Arnia Mentorship
+# 🌟 Arnia Mentorship - Node.js
 
 Hello! This is the official repository for the T4 and T5 classes. As a mentor for these classes, I will be updating this repository with useful and relevant information throughout the course.
 
