@@ -1,5 +1,7 @@
 # 🌟 Monitoria Arnia
 
+###### _Pssst! English version of this README is available [here](./EN_US.md)._
+
 Olá! Este é o repositório oficial para as turmas T4 e T5. Como monitora dessas turmas, estarei atualizando este repositório com informações úteis e relevantes ao longo do curso.
 
 ## 🎯 Propósito
