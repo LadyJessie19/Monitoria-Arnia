@@ -1,4 +1,4 @@
-# 🌟 Monitoria Arnia
+# 🌟 Monitoria Arnia - Node.js
 
 ###### _Pssst! English version of this README is available [here](./EN_US.md)._
 
